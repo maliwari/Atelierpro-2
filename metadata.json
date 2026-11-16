@@ -1,0 +1,6 @@
+{
+  "name": "AtelierPro - Gestion d'Atelier de Couture",
+  "description": "Application mobile et tablette offline-first pour ateliers de couture : modèles, mensurations clients, commandes, mercerie, équipe et rentabilité.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

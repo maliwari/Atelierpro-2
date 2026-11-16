@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="atelier_photos" path="photos/" />
+    <files-path name="atelier_pdfs" path="pdfs/" />
+    <cache-path name="shared_files" path="." />
+</paths>
